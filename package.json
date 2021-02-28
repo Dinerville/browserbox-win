@@ -1,0 +1,17 @@
+{
+  "name": "browserbox-win",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "browserbox": "./runner.js"
+  },
+  "dependencies": {
+    "get-installed-path": "4.0.8"
+  }
+}
